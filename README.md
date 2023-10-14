@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=100&pause=1000&color=00FF00&background=00000088&center=true&vCenter=true&random=false&width=500&height=100&separator=%3D&lines=%3Ch1%3EHello+World!%3C%2Fh1%3E%3DSystem.out.println(%22Hello+World!%22);%3Dprintf(%22Hello+World!%22);%3Dstd%3A%3Acout+%3C%3C+%22Hello+World!%22;%3DConsole.WriteLine(%22Hello+World!%22);%3Dconsole.log(%22Hello+World!%22);" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=100&pause=1000&color=00FF00&background=000000CC&center=true&vCenter=true&random=false&width=435&height=100&separator=%3D&lines=%3Ch1%3EHello+World!%3C%2Fh1%3E%3DSystem.out.println(%22Hello+World!%22);%3Dprintf(%22Hello+World!%22);%3Dstd%3A%3Acout+%3C%3C+%22Hello+World!%22;%3DConsole.WriteLine(%22Hello+World!%22);%3Dconsole.log(%22Hello+World!%22);" alt="Typing SVG">
   </a>
   <br>
   <br>
