@@ -12,10 +12,10 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Lloyd26&hide=issues&show_icons=true&theme=gruvbox&hide_border=true&card_width=450&line_height=24" alt="Lloyd26's GitHub Stats">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Lloyd26&hide=issues&show_icons=true&theme=gruvbox&hide_border=true&card_width=450&line_height=24" alt="Lloyd26's GitHub Stats">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lloyd26&layout=compact&show_icons=true&theme=gruvbox&hide_border=true&card_width=450" alt="Lloyd26's GitHub Top Languages">
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lloyd26&layout=compact&show_icons=true&theme=gruvbox&hide_border=true&card_width=450" alt="Lloyd26's GitHub Top Languages">
 </a>
 </div>
 <div align="center">
